@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\structexercicios\bin\Debug\net6.0\structexercicios.exe
+C:\Users\Aluno\Desktop\structexercicios\bin\Debug\net6.0\structexercicios.deps.json
+C:\Users\Aluno\Desktop\structexercicios\bin\Debug\net6.0\structexercicios.runtimeconfig.json
+C:\Users\Aluno\Desktop\structexercicios\bin\Debug\net6.0\structexercicios.dll
+C:\Users\Aluno\Desktop\structexercicios\bin\Debug\net6.0\structexercicios.pdb
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.dll
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\refint\structexercicios.dll
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.pdb
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\structexercicios.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\structexercicios\obj\Debug\net6.0\ref\structexercicios.dll
